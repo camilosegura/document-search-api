@@ -12,6 +12,11 @@
   "patientScore": 114.562,
   "summary": "Medical History",
   "summaryScore": 0.4,
+  "files": [
+    "001-history-1.png",
+    "001-history-2.png",
+    "001-history-3.png"
+  ],
   "flags" : [
     {
       "name": "PrimaryCareProvider/FollowUp",
@@ -24,7 +29,8 @@
         "b": 720,
         "l": 870,
         "r": 1100
-      }
+      },
+      "file": "history-follow-up.png"
     },
     {
       "name": "CardiacFaliure/Symptoms",
@@ -37,7 +43,8 @@
         "b": 1320,
         "l": 335,
         "r": 635
-      }
+      },
+      "file": "history-heart-failure.png"
     }
   ],
   "problems" : [
@@ -53,7 +60,8 @@
         "b": 780,
         "l": 600,
         "r": 735
-      }
+      },
+      "files": "history-sleep-apnea.png"
     },
     {
       "name": "GERD",
@@ -67,7 +75,8 @@
         "b": 565,
         "l": 600,
         "r": 660
-      }
+      },
+      "files": "history-gerd.png"
     }
   ],
   "allergies" : [
@@ -83,7 +92,8 @@
         "b": 897,
         "l": 870,
         "r": 1010
-      }
+      },
+      "files": "history-allergy.png"
     }
   ],
   "medications" : [
@@ -99,7 +109,8 @@
         "b": 1107,
         "l": 120,
         "r": 375
-      }
+      },
+      "files": "history-medication.png"
     }
   ]
 }

@@ -15,6 +15,7 @@
   "patientScore": 453.55118400000003,
   "summary": "Prescription Request",
   "summaryScore": 0.9,
+  "files": ["002-rx-request-1.png"],
   "medications" : [
     {
       "name": "Spironolactone",
@@ -28,7 +29,8 @@
         "b": 1020,
         "l": 480,
         "r": 802
-      }
+      },
+      "file": "rx-request-medication.png"
     }
   ]
 }

@@ -61,7 +61,7 @@
         "l": 600,
         "r": 735
       },
-      "files": "history-sleep-apnea.png"
+      "file": "history-sleep-apnea.png"
     },
     {
       "name": "GERD",
@@ -76,7 +76,7 @@
         "l": 600,
         "r": 660
       },
-      "files": "history-gerd.png"
+      "file": "history-gerd.png"
     }
   ],
   "allergies" : [
@@ -93,7 +93,7 @@
         "l": 870,
         "r": 1010
       },
-      "files": "history-allergy.png"
+      "file": "history-allergy.png"
     }
   ],
   "medications" : [
@@ -110,7 +110,7 @@
         "l": 120,
         "r": 375
       },
-      "files": "history-medication.png"
+      "file": "history-medication.png"
     }
   ]
 }
